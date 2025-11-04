@@ -1,7 +1,11 @@
 [
     {
       "id":1,
+<<<<<<< HEAD
       "name":"Kanthara",
+=======
+      "name":"Kantara",
+>>>>>>> origin/Sowmya
       "category":"Devote",
       "year":2025
     },
@@ -20,7 +24,11 @@
     {
         "id":4,
         "name":"Vikram",
+<<<<<<< HEAD
         "category":"Triller",
+=======
+        "category":"Thriller",
+>>>>>>> origin/Sowmya
         "year":2022
 
     },
